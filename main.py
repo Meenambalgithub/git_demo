@@ -3,5 +3,6 @@ def concatenate(*args):
 
 
 # print(concatenate("Hi", "Meena"))
-print(concatenate("Hi", "fish"))
+# print(concatenate("Hi", "fish"))
+print(concatenate("Hi", "Hari"))
 
